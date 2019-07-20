@@ -1,4 +1,4 @@
-package Chapter4;
+package chapter4;
 
 import static net.mindview.util.Print.print;
 

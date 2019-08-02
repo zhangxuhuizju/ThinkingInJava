@@ -17,4 +17,3 @@ class Test {
         print("This is class Test.");
     }
 }
-
